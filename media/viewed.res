@@ -18,7 +18,7 @@
 	}
 	"koth_nucleus"
 	{
-		"viewed"		"56"
+		"viewed"		"57"
 	}
 	"cp_junction_final"
 	{
@@ -50,7 +50,7 @@
 	}
 	"koth_harvest_event"
 	{
-		"viewed"		"55"
+		"viewed"		"56"
 	}
 	"cp_warpath2"
 	{
