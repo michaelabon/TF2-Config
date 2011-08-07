@@ -15,6 +15,7 @@
 /replay/*
 /screenshots/*
 /sound/*
+!/sound/weapons
 !/sound/weapons/sentry_spot_client.wav
 *.mov
 *.bik
