@@ -35,7 +35,6 @@
 *.dt
 server.cfg
 *.scr
-/cfg/config.cfg
 /cfg/config_arena.cfg
 
 
