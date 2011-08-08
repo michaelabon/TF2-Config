@@ -90,7 +90,7 @@
 	}
 	"pl_barnblitz"
 	{
-		"viewed"		"57"
+		"viewed"		"58"
 	}
 	"pl_thundermountain"
 	{
@@ -102,7 +102,7 @@
 	}
 	"cp_freight_final1"
 	{
-		"viewed"		"52"
+		"viewed"		"53"
 	}
 	"pl_frontier_final"
 	{
@@ -130,6 +130,6 @@
 	}
 	"tr_walkway_rc2"
 	{
-		"viewed"		"54"
+		"viewed"		"59"
 	}
 }
