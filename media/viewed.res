@@ -2,15 +2,15 @@
 {
 	"pl_badwater"
 	{
-		"viewed"		"66"
+		"viewed"		"68"
 	}
 	"ctf_turbine"
 	{
-		"viewed"		"55"
+		"viewed"		"58"
 	}
 	"koth_sawmill"
 	{
-		"viewed"		"58"
+		"viewed"		"59"
 	}
 	"pl_simpson_house_a7"
 	{
@@ -18,7 +18,7 @@
 	}
 	"koth_nucleus"
 	{
-		"viewed"		"57"
+		"viewed"		"58"
 	}
 	"cp_junction_final"
 	{
@@ -46,7 +46,7 @@
 	}
 	"cp_degrootkeep"
 	{
-		"viewed"		"55"
+		"viewed"		"56"
 	}
 	"koth_harvest_event"
 	{
@@ -62,7 +62,7 @@
 	}
 	"pl_goldrush"
 	{
-		"viewed"		"62"
+		"viewed"		"67"
 	}
 	"cp_egypt_final"
 	{
@@ -90,7 +90,7 @@
 	}
 	"pl_barnblitz"
 	{
-		"viewed"		"58"
+		"viewed"		"60"
 	}
 	"pl_thundermountain"
 	{
@@ -98,19 +98,19 @@
 	}
 	"plr_hightower"
 	{
-		"viewed"		"53"
+		"viewed"		"54"
 	}
 	"cp_freight_final1"
 	{
-		"viewed"		"53"
+		"viewed"		"55"
 	}
 	"pl_frontier_final"
 	{
-		"viewed"		"56"
+		"viewed"		"57"
 	}
 	"cp_gorge"
 	{
-		"viewed"		"51"
+		"viewed"		"52"
 	}
 	"ctf_2fort"
 	{
@@ -118,7 +118,7 @@
 	}
 	"pl_upward"
 	{
-		"viewed"		"51"
+		"viewed"		"52"
 	}
 	"cp_lazytown_lazynite"
 	{
@@ -126,10 +126,22 @@
 	}
 	"cp_manor_event"
 	{
-		"viewed"		"54"
+		"viewed"		"55"
 	}
 	"tr_walkway_rc2"
 	{
-		"viewed"		"59"
+		"viewed"		"63"
+	}
+	"pl_donkeykong_final"
+	{
+		"viewed"		"50"
+	}
+	"arena_lumberyard"
+	{
+		"viewed"		"50"
+	}
+	"cp_well"
+	{
+		"viewed"		"50"
 	}
 }
